@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/keerthanakumar76/PasswordGenerator.git",
+  "homepage": "https://keerthanakumar76.github.io/PasswordGenerator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
